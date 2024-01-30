@@ -1,0 +1,17 @@
+#sec{
+    /* display: flex; */
+    align-items: center;
+    margin-left: 50px ;
+    font-family: 'Times New Roman', Times, serif;
+}
+.form21{
+    display: flexbox;
+    /* justify-content: center; */
+    /* align-items: center; */
+    padding: 20px ;
+    margin-left: 20px;
+    max-width: 250px;
+    margin-right: 20px;
+    background-color: #0cf;
+    border-radius: 50px;
+}
